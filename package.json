@@ -5,6 +5,7 @@
   "main": "index.mjs",
   "type": "module",
   "scripts": {
+    "lint": "eslint --ext .mjs",
     "test": "jest ."
   },
   "author": "Rodrigo Gomes da Silva<rodrigo.smscom@gmail.com>",
