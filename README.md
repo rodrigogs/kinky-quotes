@@ -21,5 +21,5 @@ import kinkyQuotes from 'kinky-quote'
 
 ### CLI
 ```bash
-npx kinky-quote
+$ npx kinky-quote
 ```
