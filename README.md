@@ -1,5 +1,7 @@
 # kinky-quote
 
+[![Tests](https://github.com/rodrigogs/kinky-quotes/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/rodrigogs/kinky-quotes/actions/workflows/tests.yml)
+
 Crawls random quotes from [kinkyquotes.com](http://kinkyquotes.com/).
 
 ### Install
