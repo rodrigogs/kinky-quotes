@@ -21,6 +21,6 @@ jobs:
     - uses: pnpm/action-setup@v2.0.1
       with:
         version: 6.x
-    - run: pnpm run install
-    - run: pnpm run lint
-    - run: pnpm run test
+    - run: pnpm install
+    - run: pnpm lint
+    - run: pnpm test
