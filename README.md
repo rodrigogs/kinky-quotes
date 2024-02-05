@@ -4,6 +4,9 @@
 
 Crawls random quotes from [kinkyquotes.com](http://kinkyquotes.com/).
 
+## Notice
+kinkyquotes.com is no longer operational ;(
+
 ### Install
 ```bash
 $ npm install kinky-quote
